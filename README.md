@@ -1,5 +1,5 @@
 # AI Gesture-Controlled 3D Printed Robotic Hand
-
+PROJECT VIDEO LINK : https://www.youtube.com/shorts/FR_Llsw5JAc
 This project mirrors a human hand in real time using:
 
 - `MediaPipe` for webcam hand tracking
