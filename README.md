@@ -1,5 +1,4 @@
 # AI Gesture-Controlled 3D Printed Robotic Hand
-PROJECT VIDEO LINK : https://www.youtube.com/shorts/FR_Llsw5JAc
 This project mirrors a human hand in real time using:
 
 - `MediaPipe` for webcam hand tracking
@@ -7,6 +6,9 @@ This project mirrors a human hand in real time using:
 - `Servo` motors to actuate a 3D printed 5-finger robotic hand
 
 The Python app reads hand landmarks, estimates finger bend values, and sends five angles over serial. The Arduino receives those angles and drives one servo per finger.
+
+# Project video link #
+PROJECT VIDEO LINK : https://www.youtube.com/shorts/FR_Llsw5JAc
 
 ## Project Structure
 
